@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Airpod",
+    "price": 10.99,
+    "imgUrl": "/imgs/applepro.jpg",
+    "text": "Pro AirPods at the best prices. Quality voice, safe bass, vibrant colors. Your choice: blue, red, white, pink, and more."
+  },
+  {
+    "id": 2,
+    "name": "iPhone",
+    "price": 10000,
+    "imgUrl": "/imgs/iphone.jpg",
+    "text": "We have the best collection of iPhones: original iPhones, with vibrant colors and good functionality. Check out our resources."
+  },
+  {
+    "id": 3,
+    "name": "Oppo A78",
+    "price": 500,
+    "imgUrl": "/imgs/oppoa78.jpg",
+    "text": "These Oppo products are the best in the market with quality cameras and other amazing features."
+  },
+  {
+    "id": 4,
+    "name": "Tekno",
+    "price": 14000,
+    "imgUrl": "/imgs/tekno.jpg",
+    "text": "Click to explore our explicit and exquisite collection of Tecno phones. The best African brand in its class is here at Kurino."
+  },
+  {
+    "id": 5,
+    "name": "Airpod",
+    "price": 10.99,
+    "imgUrl": "/imgs/applepro.jpg",
+    "text": "Pro AirPods at the best prices. Quality voice, safe bass, vibrant colors. Your choice: blue, red, white, pink, and more."
+  },
+ {
+    "id": 6,
+    "name": "Oppo A78",
+    "price": 500,
+    "imgUrl": "/imgs/oppoa78.jpg",
+    "text": "These Oppo products are the best in the market with quality cameras and other amazing features."
+ },
+ {
+   "id": 7,
+   "imgUrl": "/imgs/iphones.jpg",
+   "name": "iPhones",
+   "text": "We have the best collection of iPhones: original iPhones, with vibrant colors and good functionality. Check out our resources.",
+   "price": 500
+ },
+ {
+  "id": 8,
+   "imgUrl": "/imgs/infinix.jpg",
+   "name": "Infinix",
+   "text": "Our Infinix phones stand at the top of their name in Africa. They function nicely and have flying colors. Invest in these and enjoy a great lifestyle.",
+   "price": 250
+  },
+  {
+    "id": 9,
+    "imgUrl": "/imgs/tekno.jpg",
+    "name": "Tekno",
+    "text": "Click to explore our explicit and exquisite collection of Tecno phones. The best African brand in its class is here at Kurino.",
+    "price": 200
+  },
+ {
+    "id": 10,
+    "imgUrl": "/imgs/airpods.jpg",
+    "name": "Airpods",
+    "text": "Pro AirPods at the best prices. Quality voice, safe bass, vibrant colors. Your choice: blue, red, white, pink, and more.",
+    "price": 20
+ },
+ {
+    "id": 11,
+    "imgUrl": "/imgs/oppoa78.jpg",
+    "name": "Oppo",
+    "text": "These Oppo products are the best in the market with quality cameras and other amazing features.",
+    "price": 320.30
+ },
+ {
+    "id": 12,
+    "imgUrl": "/imgs/applepro.jpg",
+    "name": "Apple Pro Headphones",
+    "text": "With the horse power energy the apple product brings you full experience of safe voice reduce and melodious music.There are huge cuts this week, so rush and grab your fancy headphones!",
+    "price": 45.00
+ },
+ {
+    "id": 13,
+    "imgUrl": "/imgs/jp.jpg",
+    "name": "Airpods Pro",
+    "text": "Pro airpods with high quality voice made in Japan, not China.",
+    "price": 25.35
+ },
+ {
+    "id": 14,
+    "imgUrl": "/imgs/appro.jpg",
+    "name": "Apple Pro Airpods",
+    "text": "Love apple products? buy this genuine pair of apple airpods that will give you full satisfaction in music",
+    "price": 35.20
+ }
+  
+]
