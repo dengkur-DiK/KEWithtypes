@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { useAuth0 } from '@auth0/auth0-react';
 
 const Signupform: React.FC = () => {
-  const { loginWithRedirect } = useAuth0();
+  const {} = useAuth0();
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
   const emailInputRef = useRef<HTMLInputElement | null>(null);

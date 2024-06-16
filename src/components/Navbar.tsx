@@ -5,10 +5,14 @@ import { useShoppingCart } from "../Context/ShoppingCartContext";
 import SearchCards from "./SearchCards";
 import Signupform from "./Signupform";
 import "./Loginform.css";
+import SearchResultsList from "./SearchResultsList";
+
+ 
 
 const Navbar: React.FC = () => {
   const { openCart, cartQuantity } = useShoppingCart();
-  const [result, setResults] = useState<any[]>([]); 
+  const [results, setResults] = useState<any[]>([]);
+  
   const [showSignupform, setShowSignupform] = useState<boolean>(false); 
 
   const toggleSignupform = () => {
@@ -39,6 +43,7 @@ const Navbar: React.FC = () => {
             About
           </Nav.Link>
           <SearchCards setResults={setResults} />
+          <SearchResultsList results={results} />
           <button
             className="btn btn-secondary nav-link"
             style={{ width: "3rem", height: "4rem" }}
